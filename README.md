@@ -14,6 +14,11 @@ A simple Python script to bridge OCT (Octra) to wOCT (Ethereum).
 
 ---
 
+## 🇮🇩 Indonesian Tutorial
+
+For Indonesian version, see:  
+[README-ID.md](https://github.com/robynasuro/octra-bridge/blob/main/README-ID.md)
+
 ⚙️ Requirements
 
 - Python 3.10+
