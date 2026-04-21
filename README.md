@@ -27,6 +27,13 @@ A simple Python script to bridge OCT (Octra) to wOCT (Ethereum).
 - pip / pip3
 - ETH balance for gas fees
 
+Git Clone
+
+```
+git clone https://github.com/robynasuro/octra-bridge.git
+cd octra-bridge
+```
+
 Install dependencies:
 
 ```
