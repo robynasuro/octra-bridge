@@ -4,6 +4,13 @@ A simple Python script to bridge OCT (Octra) to wOCT (Ethereum).
 
 ---
 
+🌏 Documentation
+
+- 🇬🇧 English: This README
+- 🇮🇩 Indonesian: "README-ID.md" (./README-ID.md)
+
+---
+
 ✨ Features
 
 - Lock OCT on Octra
@@ -13,11 +20,6 @@ A simple Python script to bridge OCT (Octra) to wOCT (Ethereum).
 - Single-file script (easy to use)
 
 ---
-
-## 🇮🇩 Indonesian Tutorial
-
-For Indonesian version, see:  
-[README-ID.md](https://github.com/robynasuro/octra-bridge/blob/main/README-ID.md)
 
 ⚙️ Requirements
 
